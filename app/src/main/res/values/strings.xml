@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Counties of Kenya</string>
+    <string name="app_subtitle">Explore Kenya\'s 47 Beautiful Counties</string>
+    <string name="search_hint">Search county by name, code, or HQ&#8230;</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="no_items">No items</string>
+    <string name="open_details">Open Details</string>
+    <string name="no_counties_found">No counties found</string>
+    <string name="try_different_search">Try searching for a different name, code, or region.</string>
+    <string name="headquarters">Headquarters</string>
+    <string name="region">Region</string>
+    <string name="economic_activities">Key Economy &amp; Activities</string>
+    <string name="about_county">About this County</string>
+    <string name="top_attractions">Top Attractions &amp; Highlights</string>
+    <string name="share_county">Share County Info</string>
+    <string name="back">Back</string>
+
+    <!-- Region Names -->
+    <string name="filter_all">All</string>
+    <string name="region_coast">Coast</string>
+    <string name="region_rift_valley">Rift Valley</string>
+    <string name="region_central">Central</string>
+    <string name="region_eastern">Eastern</string>
+    <string name="region_nyanza">Nyanza</string>
+    <string name="region_western">Western</string>
+    <string name="region_north_eastern">North Eastern</string>
+    <string name="region_nairobi">Nairobi</string>
+</resources>

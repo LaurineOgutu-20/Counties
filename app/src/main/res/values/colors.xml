@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Primary & Secondary Colors -->
+    <color name="primary">#006C4C</color>
+    <color name="primary_dark">#004D36</color>
+    <color name="primary_container">#D0F8E2</color>
+    <color name="on_primary_container">#002114</color>
+
+    <color name="accent_red">#BB1010</color>
+    <color name="accent_gold">#D97706</color>
+    <color name="accent_gold_light">#FEF3C7</color>
+
+    <color name="bg_light">#F8FAFC</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <!-- Region Badge Tag Colors -->
+    <color name="region_coast">#0288D1</color>
+    <color name="region_rift_valley">#2E7D32</color>
+    <color name="region_central">#795548</color>
+    <color name="region_eastern">#E65100</color>
+    <color name="region_nyanza">#00695C</color>
+    <color name="region_western">#558B2F</color>
+    <color name="region_north_eastern">#D97706</color>
+    <color name="region_nairobi">#673AB7</color>
+</resources>
