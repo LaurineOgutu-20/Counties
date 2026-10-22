@@ -27,7 +27,7 @@ Counties of Kenya is an Android application project created as part of my ICT an
 <p align="center">
   <img src="screenshots/counties-home.png.jpeg" width="140" alt="Home screen">
   <img src="screenshots/counties-search.png.jpeg" width="140" alt="Counties screen">
-  <img src="screenshots/county-details.png.jpeg" width="140" alt="County details screen">
+  <img src="screenshots/counties-details.png.jpeg" width="140" alt="County details screen">
 </p>
 
 
