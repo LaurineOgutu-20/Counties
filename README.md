@@ -38,13 +38,6 @@ The following screenshots demonstrate the Counties of Kenya Android application.
   <img src="screenshots/counties-details.png.jpeg" width="140" alt="County Details Screen" />
 </p>
 
-<p align="center">
-  <b>Home Screen</b> &nbsp;&nbsp;&nbsp;
-  <b>Counties Search</b> &nbsp;&nbsp;&nbsp;
-  <b>County Details</b>
-</p>
-
-
 
 ## Download the App
 
