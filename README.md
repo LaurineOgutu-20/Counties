@@ -13,21 +13,24 @@ Counties of Kenya is an Android application project created as part of my ICT an
 - Gradle
 - Git and GitHub
 
+
 ## Features
 
-Features will be documented here based on the functionality implemented in the application.
+- Displays information about the counties of Kenya.
+- Provides a simple Android user interface.
+- Built using Java in Android Studio.
+- Includes screenshots to demonstrate the application.
+- Source code available for learning and further development.
 
 
-## 📸 Screenshots
 
-### Home Screen
-![Counties app home screen](screenshots/counties-home.png.jpeg)
+## Screenshots
 
-### County Details
-![County details screen](screenshots/counties-details.png.jpeg)
-
-### Search Screen
-![Counties app search screen](screenshots/counties-search.png.jpeg)
+<p align="center">
+  <img src="screenshots/home.png" width="140" alt="Home screen">
+  <img src="screenshots/counties.png" width="140" alt="Counties screen">
+  <img src="screenshots/details.png" width="140" alt="County details screen">
+</p>
 
 
 ## Download the App
